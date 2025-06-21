@@ -10,8 +10,8 @@ I'm a passionate Full Stack Developer and experienced Faculty Member with a stro
 
 - 🧠 **1+ Year** of professional experience in Full Stack Web Development
 - 👨‍🏫 **3+ Years** of teaching experience as a Full Stack Development Faculty
-- 🏫 Faculty & Mentor at **Red & White Skill Education**, Surat & Navsari
-- 🔨 Mentor for 1000+ students in live projects, internships, and career building
+- 🏫 Faculty & Mentor at **Red & White Skill Education**, Navsari
+- 🔨 Mentor for 425+ students in live projects, internships, and career building
 - 💬 Known for practical, project-driven learning and deep industry insights
 
 ---
@@ -46,8 +46,8 @@ My mission is to bridge the gap between academic learning and real-world develop
 
 ## 📫 Connect with Me
 
-- 📧 Email: [parmarisha744@gmail.com](mailto:parmarisha744@gmail.com)  
-- 🏢 Institute: Red & White Skill Education, Surat & Navsari  
+- 📧 Email: [parmarisha744@gmail.com](mailto:dhavalleelawala@gmail.com)  
+- 🏢 Institute: Red & White Skill Education, Navsari  
 - 🌐 Portfolio: Coming Soon  
 - 🧑‍🏫 LinkedIn / GitHub: Available on Request  
 
