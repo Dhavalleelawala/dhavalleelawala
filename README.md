@@ -46,7 +46,7 @@ My mission is to bridge the gap between academic learning and real-world develop
 
 ## 📫 Connect with Me
 
-- 📧 Email: [parmarisha744@gmail.com](mailto:dhavalleelawala@gmail.com)  
+- 📧 Email: [dhavalleelawala@gmail.com](mailto:dhavalleelawala@gmail.com)  
 - 🏢 Institute: Red & White Skill Education, Navsari  
 - 🌐 Portfolio: Coming Soon  
 - 🧑‍🏫 LinkedIn / GitHub: Available on Request  
