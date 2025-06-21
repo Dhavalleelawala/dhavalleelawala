@@ -9,7 +9,7 @@
 I'm a passionate Full Stack Developer and experienced Faculty Member with a strong foundation in modern web technologies and hands-on teaching expertise. I specialize in building scalable web applications and guiding students toward professional careers in software development.
 
 - 🧠 **1+ Year** of professional experience in Full Stack Web Development
-- 👨‍🏫 **3+ Years** of teaching experience as a Full Stack Development Faculty
+- 👨‍🏫 **2+ Years** of teaching experience as a Full Stack Development Faculty
 - 🏫 Faculty & Mentor at **Red & White Skill Education**, Navsari
 - 🔨 Mentor for 425+ students in live projects, internships, and career building
 - 💬 Known for practical, project-driven learning and deep industry insights
