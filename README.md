@@ -1,44 +1,113 @@
-# 👨‍💻 Dhaval Leelawala
-
-### 🚀 Full Stack Developer | 🎓 Full Stack Development Faculty | 💡 Mentor & Tech Enthusiast
-
+# Hi, I'm Dhaval Leelawala 👋
+### Full Stack Developer | Faculty & Mentor | MERN Stack
+Web Development Intern @ **Zaalima Development** · Full Stack Faculty @ **Red & White Skill Education**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhaval-leelawala)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhavalleelawala)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhavalleelawala@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dhaval_leelawala)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@dhavalleelawala)
 ---
-
 ## 👋 About Me
-
-I'm a passionate Full Stack Developer and experienced Faculty Member with a strong foundation in modern web technologies and hands-on teaching expertise. I specialize in building scalable web applications and guiding students toward professional careers in software development.
-
-- 👨‍🏫 **2+ Years** of teaching experience as a Full Stack Development Faculty
-- 🏫 Faculty & Mentor at **Red & White Skill Education**, Navsari
-- 🔨 Mentor for 425+ students in live projects, internships, and career building
-- 💬 Known for practical, project-driven learning and deep industry insights
-
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dhaval_leelawala) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhaval-leelawala-96540a223) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dhavalleelawala) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhavalleelawala@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dhavalleelawala&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dhavalleelawala&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhavalleelawala&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dhavalleelawala&theme=vue&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dhavalleelawala&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+I'm a Full Stack Developer, Faculty, and Placement Coordinator based in **Surat, Gujarat**. I build production-ready web apps and mentor students into industry-ready developers.
+- 💼 **Web Development Intern** at [Zaalima Development Pvt. Ltd.](https://www.zaalima.in) *(May 2026 – Aug 2026 | Remote)*
+- 👨‍🏫 **Full Stack Development Faculty & Placement Coordinator** at Red & White Skill Education *(Dec 2023 – Present)*
+- 🏫 Former **Faculty** at C-DAC *(Apr 2022 – Dec 2023)*
+- 🚀 Building multi-tenant e-commerce & real-time collaborative tools
+- 🎯 Passionate about practical teaching, clean code, and real-world projects
+📧 **dhavalleelawala@gmail.com** · 📱 **+91 91578 82150**
 ---
-[![](https://visitcount.itsvg.in/api?id=dhavalleelawala&icon=1&color=1)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/Leelawala) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/dhavalleelawala) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🏆 Current Achievements
+| Achievement | Details |
+|-------------|---------|
+| 🏢 **Zaalima Internship** | Web Development Intern — remote, industry projects |
+| 🛒 **MultiCommerce** | Multi-tenant e-commerce (Customer + Vendor + Admin) |
+| ⚡ **Collaborative Workspace** | Real-time Kanban tool (Socket.io + Redis) |
+| 🎓 **Teaching & Placement** | Mentoring full stack students at Red & White |
+---
+## 🚀 Featured Projects
+### 1. MultiCommerce — Multi-Tenant E-Commerce Platform
+> **Zaalima Project** · Full-stack marketplace for customers, vendors & super admins
+- 3 portals: Customer shop, Vendor store management, Admin analytics
+- JWT + email OTP auth · Razorpay + COD checkout · Cloudinary media
+- Inventory, coupons, payouts, master catalog & order tracking
+🛠 **Stack:** React · Redux Toolkit · Node.js · Express · MongoDB · Tailwind · Razorpay · Cloudinary
+🔗 [Live Demo](https://multicommerce-web.vercel.app) · [GitHub](https://github.com/Dhavalleelawala/Multi-Tenant-E-Commerce-Platform)
+---
+### 2. Real-Time Collaborative Workspace
+> **Zaalima Project** · Agile management tool (Jira / Trello style)
+- Kanban boards with drag-and-drop tasks
+- Live sync via Socket.io rooms + Redis
+- Workspaces, boards, lists, cards, comments & notifications
+🛠 **Stack:** React · Socket.io · Node.js · Express · MongoDB · Redis · Tailwind
+🔗 [GitHub](https://github.com/Dhavalleelawala/Real-Time-Collaborative-Workspace)
+---
+### 3. Personal Portfolio (MERN)
+> Portfolio website showcasing skills, experience & projects
+🛠 **Stack:** MongoDB · Express · React · Node.js
+🔗 [GitHub](https://github.com/Dhavalleelawala/dhaval-portfolio)
+---
+### 4. Admin Panel API & Auth
+> Secure backend APIs with Passport.js & role-based access
+🛠 **Stack:** Node.js · Express · Passport.js · MongoDB
+---
+## 💻 Tech Stack
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+### Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+### Tools & Deployment
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-072654?style=flat-square&logo=razorpay&logoColor=white)
+---
+## 💼 Experience
+### Web Development Intern — Zaalima Development Pvt. Ltd.
+**May 2026 – Aug 2026** · Remote  
+Building MultiCommerce and Real-Time Collaborative Workspace with React, Node.js, MongoDB, Socket.io & Redis.
+### Full Stack Development Faculty & Placement Coordinator — Red & White Skill Education
+**Dec 2023 – Present** · Surat, Gujarat  
+Teaching MERN stack, mentoring students on projects & Git, and coordinating placements.
+### Faculty — C-DAC
+**Apr 2022 – Dec 2023** · Surat, Gujarat  
+Delivered programming instruction aligned with C-DAC training standards.
+---
+## 🎓 Education & Certifications
+- **Advanced Diploma for Computer Teacher (Multilingual)** — C-DAC
+- Full Stack / Web Development certifications — Red & White Skill Education
+---
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhavalleelawala&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhavalleelawala&theme=tokyonight&hide_border=false&layout=compact)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Dhavalleelawala&theme=tokyonight&hide_border=false)
+## 🏆 GitHub Trophies
+![Trophy](https://github-profile-trophy.vercel.app/?username=Dhavalleelawala&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+---
+## 🔗 Quick Links
+| | |
+|---|---|
+| 🌐 Portfolio Repo | [dhaval-portfolio](https://github.com/Dhavalleelawala/dhaval-portfolio) |
+| 🛒 MultiCommerce Live | [multicommerce-web.vercel.app](https://multicommerce-web.vercel.app) |
+| 💼 LinkedIn | [linkedin.com/in/dhaval-leelawala](https://linkedin.com/in/dhaval-leelawala) |
+| ✉️ Email | [dhavalleelawala@gmail.com](mailto:dhavalleelawala@gmail.com) |
+---
+### 💬 Let's connect!
+Open to **Full Stack / MERN Developer** roles, collaborations, and mentoring conversations.
+⭐️ From [Dhavalleelawala](https://github.com/Dhavalleelawala)
